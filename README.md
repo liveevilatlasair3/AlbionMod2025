@@ -10,16 +10,16 @@ AlbionMod2025 Ultimate Edition – Enhanced Gameplay Experience for 2025
 
 
 
-## рџ›Ў Why Choose This?
-- вњ”пёЏ 5-Star Rating вЂ“ Trusted by thousands
+# Why Choose This?
+-  5-Star Rating вЂ“ Trusted by thousands
 
-- вњ”пёЏ No Viruses вЂ“ 100% Safe & Secure
+-  No Viruses вЂ“ 100% Safe & Secure
 
-- вњ”пёЏ Fast Installation вЂ“ Just a few clicks
+- Fast Installation вЂ“ Just a few clicks
 
-- вњ”пёЏ Regular Updates вЂ“ Stay up-to-date
+-  Regular Updates вЂ“ Stay up-to-date
 
-- вњ”пёЏ 24/7 Support вЂ“ Always here to help
+-  24/7 Support вЂ“ Always here to help
 
 # AlbionMod2025 Features
 
@@ -69,14 +69,14 @@ AlbionMod2025 Ultimate Edition – Enhanced Gameplay Experience for 2025
 - How can I get support? рџ’¬
 - Out TG Support [Support](@GitSupport)
 
-## Contribution рџ¤ќ
+## Contribution
 If you would like to contribute to the project, please review the [contribution guidelines](/Contribution.md)
 
-## License рџ“њ
+## License 
 [LICENSE](/LICENSE)
 
-## AUTHORS рџ‘ЁвЂЌрџ’»
+## AUTHORS 
 [AUTHORS](/AUTHORS.txt)
 
-## Made with care вќ¤пёЏ
+## Made with care 
 We appreciate your choice of our software!
